@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevAllanP
-- 👀 I’m interested in Frontend development. Backend development  
-- 🌱 I’m currently learning Java17 , Angular 
+- 👀 I’m interested in Backend development and Crypto 
+- 🌱 I’m currently learning Java17 , Next.js , Solidity
 - 💞️ I’m looking to collaborate on opensource and all other project
 - 📫 How to reach me - allanparsy.dev@gmail.com
 
